@@ -1,0 +1,3 @@
+Run: svd_face_recognition. Wait and see the results. 
+meanImage and readDatabase are assisting functions.
+
